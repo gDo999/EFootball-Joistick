@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto eFootball Gamepad</string>
+    <string name="accessibility_description">Converts physical game-controller input into user-triggered touch input for eFootball. No macros or autonomous gameplay.</string>
+</resources>

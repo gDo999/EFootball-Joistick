@@ -1,0 +1,14 @@
+Auto eFootball Gamepad MVP — source package
+Generated: 2026-09-26
+
+Static checks completed in the generation environment:
+- Android XML/resource files parsed successfully.
+- Kotlin source delimiter/integrity sanity check passed.
+- Gradle wrapper main class is present.
+- No TODO/FIXME/placeholder generation markers remain.
+
+Not completed in this environment:
+- Android Gradle sync/build (Android SDK is not installed here and the runtime cannot download Gradle/dependencies).
+- Physical-device controller/eFootball testing.
+
+See README.md and PROJECT_STATUS.md before treating the project as production-ready.
